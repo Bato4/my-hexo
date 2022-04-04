@@ -1,38 +1,46 @@
 ---
-title: Hello World
+title: 阎晨怡的简历
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## 基本信息
+阎晨怡| 女  |  22  | 成都 | 四川大学 | 计算机科学与技术专业 | 		
+Tel:18084949030  |E-mail: iYanChenyi@163.com  | QQ:343751571
 
-## Quick Start
+## 个人描述
 
-### Create a new post
+证书：卓越工程师  
+外语：大一时通过CET4、CET6考试，且会基础日语   
+职务：学生会宣传部成员  
+方向：前端设计与开发                  
+特点：拥有前端开发经验、有系统学习过美术、拥有平面设计经
 
-``` bash
-$ hexo new "My New Post"
-```
+## 荣誉奖项
+### 奖学金
+2017年获得国家珠峰计划奖学金
+### 学科竞赛
+ACM竞赛校级铜奖   
+2019年校级“大学生创新创业训练计划”奖项
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 科研学术
+### Porter Stemmer技术研究  2020-03~2020-04
+跟随Weiyi Meng先生的指导研究Porter Stemmer词干提取算法，建立可在词典查询指定单词的散列表，提高了前端检索的精度
 
-### Run server
+## 实习经历
+### 成都上程数据有限公司 前端研发（Java） 2020-05~2020-07
+参与程序员知识分享平台业务的前端研发，主要采用Bootstrap框架使得前端UI更加简介美观，使用Thymeleaf模版引擎技术进行前端渲染，引入JustAuth实现微信、QQ等第三方平台的登陆
 
-``` bash
-$ hexo server
-```
+## 项目经历
+### 基于正文抽取的通用型网页自动邮件提取系统项目负责  2019-04~2020-05
+带领团队负责基于正文抽取的通用型网页自动邮件提取系统项目建设，利用cookie登录邮箱，采用OCR文字识别实现邮件爬取
 
-More info: [Server](https://hexo.io/docs/server.html)
+### 分类标记系统项目  2020-01~2021-05
+独立进行人工标注系统的开发，其功能主要是可以为图像以及文本的标注提供技术支持
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## 技术栈
+### 前端
+熟悉：Java、JavaScript		了解：Vue、jQuery
+### 后端
+熟悉：Python				了解：SpringBoot
+### 数据库
+熟悉：MySQL				了解：MongoDB
+### 大数据
+了解：Hadoop
